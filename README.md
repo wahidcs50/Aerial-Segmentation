@@ -68,13 +68,13 @@ python evaluate.py
 Here are some example results from the model:
 
 ### Input Image
-![Input Image](./results/input_image.png)
+![Input Image](./results/sampledmask.png)
 
 ### Ground Truth Mask
-![Ground Truth Mask](./results/ground_truth_mask.png)
+![Ground Truth Mask](./results/transformed.png)
 
 ### Predicted Mask
-![Predicted Mask](./results/predicted_mask.png)
+![Predicted Mask](./results/prediction.png)
 
 ---
 
