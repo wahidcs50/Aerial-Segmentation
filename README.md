@@ -19,9 +19,6 @@ The project involves:
 ## Installation
 
 1. Clone the repository:
- ```bash
-   pip install -r requirements.txt
-   ```
    git clone https://github.com/your-username/satellite-segmentation.git
    cd satellite-segmentation
 
