@@ -29,11 +29,11 @@ The project involves:
 
 ---
 
- Dataset
+ ## Dataset
 
 The dataset consists of satellite images and their corresponding masks. The images are stored in the `images` folder, and the masks are stored in the `masks` folder. The dataset should be placed in the following structure:
 
-Training
+## Training
 
 To train the model, run the following command:
 ```bash
