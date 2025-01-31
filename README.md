@@ -21,8 +21,8 @@ The project involves:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/satellite-segmentation.git
-   cd satellite-segmentation
    ```
+   cd satellite-segmentation
 
 2. Install the required dependencies:
    ```bash
