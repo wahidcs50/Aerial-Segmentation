@@ -1,24 +1,22 @@
-
-
-```markdown
-Satellite Image Segmentation using Deep Learning
+# Satellite Image Segmentation using Deep Learning
 
 This project focuses on segmenting satellite images using a deep learning model. The goal is to classify different regions in the images (e.g., land, roads, buildings, vegetation, water) using a custom SegNet architecture. The model is trained on patched satellite images and evaluated on a test dataset.
 
 
-Project Overview
+## Project Overview
 
 The project involves:
 - Preprocessing satellite images and masks into smaller patches.
-- Training a custom SegNet model with custom focal loss  using PyTorch.
+- Training a custom SegNet model using PyTorch.
 - Evaluating the model on a test dataset.
 - Visualizing the results, including input images, ground truth masks, and predicted masks.
 
 ---
 
-Installation
+## Installation
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/your-username/satellite-segmentation.git
    cd satellite-segmentation
 
