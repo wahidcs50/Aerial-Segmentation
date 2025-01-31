@@ -1,7 +1,4 @@
 
----
-
-### **`README.md`**
 
 ```markdown
 # Satellite Image Segmentation using Deep Learning
